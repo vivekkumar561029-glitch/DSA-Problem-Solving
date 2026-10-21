@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
