@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
