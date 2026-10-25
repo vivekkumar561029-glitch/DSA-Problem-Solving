@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0541-reverse-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
