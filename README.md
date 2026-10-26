@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0557-reverse-words-in-a-string-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
