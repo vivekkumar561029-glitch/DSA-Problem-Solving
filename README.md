@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0931-minimum-falling-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
