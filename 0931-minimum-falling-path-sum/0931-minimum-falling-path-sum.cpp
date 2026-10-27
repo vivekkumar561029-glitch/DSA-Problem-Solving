@@ -2,7 +2,7 @@ class Solution {
 public:
 
     long long helper(vector<vector<int>>&matrix,long long i,long long j,vector<vector<int>>&dp){
-        long long n=matrix[0].size();
+        long long n=matrix.size();
 
      
         if(j < 0 || j>=n) return INT_MAX;
