@@ -1,31 +1,33 @@
 class Solution {
 public:
-
-    long long helper(vector<vector<int>>&matrix,long long i,long long j,vector<vector<int>>&dp){
-        long long n=matrix.size();
-
-     
-        if(j < 0 || j>=n) return INT_MAX;
-
-        if(i==0) return matrix[0][j];
-           if(dp[i][j]!=-106) return dp[i][j];
-
-        long long up=matrix[i][j] + helper(matrix,i-1,j,dp);
-        long long ld=matrix[i][j] + helper(matrix,i-1,j-1,dp);
-        long long rd=matrix[i][j] + helper(matrix,i-1,j+1,dp);
-
-        return dp[i][j] = min(up,min(ld,rd));
-    }
-    long long minFallingPathSum(vector<vector<int>>& matrix) {
-        long long  n=matrix.size();
-
+    int minFallingPathSum(vector<vector<int>>& matrix) {
+        int n=matrix.size();
         vector<vector<int>>dp(n,vector<int>(n,-106));
 
-       
-       long long ans=INT_MAX;
-       for(long long j=0;j<n;j++){
-        ans=min(ans,helper(matrix,n-1,j,dp));
-       } 
-       return ans;
+        for(int j=0;j<n;j++){
+            dp[0][j]=matrix[0][j];
+        }
+
+        for(int i=1;i<n;i++){
+            for(int j=0;j<n;j++){
+                int up=matrix[i][j]+dp[i-1][j];
+                int ld=INT_MAX;
+                if(j>0){
+                ld=matrix[i][j]+dp[i-1][j-1];
+                 }
+                 int rd=INT_MAX;
+                 if(j<n-1){
+                    rd=matrix[i][j]+dp[i-1][j+1];
+                 }
+                 dp[i][j]= min(up,min(ld,rd));
+                                      }
+        }
+    
+    int ans=dp[n-1][0];
+    for(int j=1;j<n;j++){
+        ans=min(ans,dp[n-1][j]);
     }
+      return ans;
+    }
+  
 };
