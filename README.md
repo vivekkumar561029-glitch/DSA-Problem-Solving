@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0174-dungeon-game](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0174-dungeon-game](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0174-dungeon-game](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 ## Two Pointers
 |  |
