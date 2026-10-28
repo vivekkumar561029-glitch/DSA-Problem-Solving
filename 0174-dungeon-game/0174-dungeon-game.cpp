@@ -1,45 +1,37 @@
 class Solution {
 public:
-    int f(int i, int j, int n, int m,
-          vector<vector<int>>& dungeon,
-          vector<vector<int>>& dp) {
-
-        if (i >= n || j >= m) {
-            return INT_MAX;
-        }
-
-        if (i == n - 1 && j == m - 1) {
-            if (dungeon[i][j] < 0) {
-                return abs(dungeon[i][j]) + 1;
-            }
-            else {
-                return 1;
-            }
-        }
-
-        if (dp[i][j] != -1) {
-            return dp[i][j];
-        }
-
-        int right = f(i, j + 1, n, m, dungeon, dp);
-        int down = f(i + 1, j, n, m, dungeon, dp);
-
-        int res = min(right, down) - dungeon[i][j];
-
-        if (res <= 1) {
-            return dp[i][j] = 1;
-        }
-        else {
-            return dp[i][j] = res;
-        }
-    }
-
     int calculateMinimumHP(vector<vector<int>>& dungeon) {
         int n = dungeon.size();
         int m = dungeon[0].size();
 
-        vector<vector<int>> dp(n, vector<int>(m, -1));
+        vector<vector<int>> dp(n, vector<int>(m, INT_MAX));
 
-        return f(0, 0, n, m, dungeon, dp);
+        dp[n - 1][m - 1] = max(1, 1 - dungeon[n - 1][m - 1]);
+
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = m - 1; j >= 0; j--) {
+
+                if (i == n - 1 && j == m - 1) {
+                    continue;
+                }
+
+                int right = INT_MAX;
+                int down = INT_MAX;
+
+                if (j + 1 < m) {
+                    right = dp[i][j + 1];
+                }
+
+                if (i + 1 < n) {
+                    down = dp[i + 1][j];
+                }
+
+                int need = min(right, down) - dungeon[i][j];
+
+                dp[i][j] = max(1, need);
+            }
+        }
+
+        return dp[0][0];
     }
 };
