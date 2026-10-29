@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0724-find-pivot-index) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0174-dungeon-game) |
+| [0300-longest-increasing-subsequence](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0044-wildcard-matching) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
