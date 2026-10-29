@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
