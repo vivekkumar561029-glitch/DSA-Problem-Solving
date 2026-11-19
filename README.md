@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
