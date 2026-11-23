@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,15 +29,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 ## String
 |  |
 | ------- |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0077-combinations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
