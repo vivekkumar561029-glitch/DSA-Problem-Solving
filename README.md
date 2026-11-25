@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0072-edit-distance) |
 | [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0072-edit-distance) |
 | [0174-dungeon-game](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
