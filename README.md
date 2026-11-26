@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/3360-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/0412-fizz-buzz) |
+| [3360-stone-removal-game](https://github.com/vivekkumar561029-glitch/DSA-Problem-Solving/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
